@@ -1,7 +1,6 @@
 # Портфолио с фильтрами
 
-
-![Vercel Deploy](https://deploy-badge.vercel.app/vercel/ra-homeworks-2-events-state-filter?accountId=alexs-projects-942dd518)
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/ra-homeworks-2-events-state-filter?accountId=alexs-projects-942dd518)](https://ra-homeworks-2-events-state-filter.vercel.app)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen?logo=vercel)](https://ra-homeworks-2-events-state-filter.vercel.app)
 
 Проект представляет собой веб-приложение для отображения портфолио с возможностью фильтрации проектов по категориям. Реализован с использованием React и Vite.
